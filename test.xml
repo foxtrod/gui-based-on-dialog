@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<student-list>
+    <student>
+        <surname>Горбачевский</surname>
+        <name>Влад</name>
+        <lastname>Георгиевич</lastname>
+        <numberOfBrothers>1</numberOfBrothers>
+        <numberOfSisters>0</numberOfSisters>
+        <parentFather>
+            <surname>Ковинич</surname>
+            <name>Валерий</name>
+            <lastname>Николаевич</lastname>
+            <salary>7000000</salary>
+        </parentFather>
+        <parentMother>
+            <surname>Ковинич</surname>
+            <name>Людмила</name>
+            <lastname>Николаевна</lastname>
+            <salary>5000000</salary>
+        </parentMother>
+    </student>
+</student-list>
